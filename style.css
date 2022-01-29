@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+   border-style: ridge;
+   border-width:10px;
+   border-color:aquamarine;
+   border-radius: 20px;
+}
+
+#play{
+    border-color:darkblue;
+    border-style: solid;
+    border-width: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#stop {
+    border-color:darkblue;
+    border-style: solid;
+    border-width: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
